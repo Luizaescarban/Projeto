@@ -4,6 +4,13 @@ body {
   margin: 0;
 }
 
+@media (max-width: 773px) {
+  .menu-icon {
+    width: 100px;
+    height: 100px;
+  }
+}
+
 .sidebar {
   width: 100%;
   height: 0;
